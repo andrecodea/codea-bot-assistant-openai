@@ -77,7 +77,9 @@
 
 ## 🎬 Demo
 
-> 🚀 **[Live Demo](https://your-app.streamlit.app)**
+<div align="center">
+  <img src="assets/chat-demo.gif" alt="Chat Demo" width="500">
+</div>
 
 
 ## 🚀 Local Installation and Usage
