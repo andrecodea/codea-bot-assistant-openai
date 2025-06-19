@@ -81,7 +81,7 @@
 
 [![CodeaBot Demo](https://img.youtube.com/vi/R7sVzZ7-RmA/maxresdefault.jpg)](https://www.youtube.com/embed/R7sVzZ7-RmA)
 
-*Click on the image to watch on YouTube.*
+*Clique na imagem para assistir no YouTube.*
 
 </div>
 
