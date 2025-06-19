@@ -74,20 +74,14 @@
 |logging	|Built-in	|Log system
 
 
-## 🎬 Demonstration
+## 🎬 See CodeaBot in Action
+<div align="center">
 
-<div class="video-container mb-3">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/R7sVzZ7-RmA" 
-    style="border: none;" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
+[![CodeaBot Demo](https://img.youtube.com/vi/R7sVzZ7-RmA/maxresdefault.jpg)](https://www.youtube.com/embed/R7sVzZ7-RmA)
+
+*Click on the image to watch on YouTube.*
+
 </div>
-
-*Click on the image to watch.*
 
 
 ## 🚀 Local Installation and Usage
