@@ -10,20 +10,19 @@ Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 --- 
-
 ## 📋 Índice
 
 - [Características](#-características)
-- [Demonstração](#-demonstração)
-- [Instalação](#-instalação)
-- [Configuração](#-configuração)
-- [Uso](#-uso)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Tecnologias](#-tecnologias)
-- [Configurações Avançadas](#-configurações-avançadas)
+- [Demonstração](#-demonstração)
+- [Instalação](#-instalação-e-uso-local)
+- [Configuração](#-configuração)
+- [Solução de Problemas](#-solução-de-problemas)
 - [Contribuição](#-contribuição)
+- [Roadmap](#-roadmap)
 - [Licença](#-licença)
 - [Autor](#-autor)
+- [Agradecimentos](#-agradecimentos)
 
 ## ✨ Características
 
@@ -36,30 +35,46 @@ Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para
 - 🎨 **UI/UX Moderna**: Design limpo com emojis e cores
 - 🔧 **Logging Avançado**: Sistema de logs para debugging e monitoramento
 
+### Funcionalidades Principais
 
-## Funcionalidades Principais
-
-### 💬 Chat Básico
+#### 💬 Chat Básico
 - Digite sua mensagem no campo inferior
 - Pressione Enter ou clique no ícone de envio
 - Aguarde a resposta em tempo real
 
-### ⚙️ Configurações
+#### ⚙️ Configurações
 - Modelo: Escolha entre gpt-3.5-turbo, gpt-4, etc.
 - Criatividade: Ajuste de 0.0 (conservador) a 1.0 (criativo)
 - Tokens: Limite de tokens por resposta (100-2000)
 
-### 🗑️ Gerenciamento
+#### 🗑️ Gerenciamento
 - Limpar Chat: Remove todo o histórico
 - Histórico: Visualize conversas anteriores
 - Status: Monitore conexão e mensagens
 
+#### Modelos Suportados
+- gpt-3.5-turbo: Rápido e eficiente
+- gpt-4: Mais preciso e capaz
+- gpt-4-turbo: Velocidade otimizada
+
+## 🛠️ Tecnologias
+|Tecnologia	|Versão	|Propósito|
+------------|-------|---------|
+|Python	|3.8+	|Linguagem principal
+|Streamlit|	1.28+	|Interface web
+|OpenAI	|1.0+	|API de IA
+|python-dotenv|	1.0+	|Gerenciamento de variáveis
+|typing	|Built-in	|Type hints
+|logging	|Built-in	|Sistema de logs
+
 
 ## 🎬 Demonstração
 
+> 🚀 **[Demonstração em tempo real](https://seu-app.streamlit.app)**
+
 ---
 
-## 🚀 Instalação
+## 🚀 Instalação e uso local
 
 ### Pré-requisitos
 
@@ -78,10 +93,11 @@ cd codeabot
 py -3.11 -m venv .venv
 
 # Windows
-venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1 (PowerShell)
+.venv\Scripts\Activate.bat (CMD)
 
 # macOS/Linux
-source venv/bin/Activate.bat
+source .venv/bin/activate
 ```
 3. **Instale as dependências**
 ```bash
@@ -89,25 +105,25 @@ pip install -r requirements.txt
 ```
 4. **Execute a aplicação**
 ```bash
-streamlit run .\codeabot.py
+streamlit run codeabot.py
 ```
 
 ## ⚙️ Configuração
-### Opção 1: Arquivo .env (Recomendado)
+### **Opção 1**: Arquivo .env (Recomendado)
 Crie um arquivo .env na raiz do projeto:
 
 env
 ```bash
-OPENAI_API_KEY="SUA CHAVE"
+OPENAI_API_KEY=sk-proj-sua-chave-aqui
 ```
 
-### Opção 2: Interface Web
+### **Opção 2**: Interface Web
 - Execute a aplicação
 - Insira sua API key no campo da sidebar
 - Clique em "Validate API Key"
 
 ### Obter API Key da OpenAI
-- Acesse [platform.openai.com]
+- Acesse [platform.openai.com](https://platform.openai.com/api-keys)
 - Faça login em sua conta
 - Clique em "Create new secret key"
 - Copie a chave (começa com sk-)
@@ -127,11 +143,11 @@ OPENAI_API_KEY="SUA CHAVE"
 ## 🤝 Contribuição
 
 ### Contribuições são bem-vindas! Siga estes passos:
-- Fork o projeto
-- Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
-- Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-- Push para a branch (git push origin feature/AmazingFeature)
-- Abra um Pull Request
+1. **Fork** o projeto
+2. **Crie** uma **branch** para sua feature (git checkout -b feature/AmazingFeature)
+3. **Commit** suas mudanças (git commit -m 'Add some AmazingFeature')
+4. **Push** para a **branch** (git push origin feature/AmazingFeature)
+5. **Abra** um **Pull Request**
 
 ### Diretrizes de Contribuição
 - Siga o padrão de código existente
