@@ -1,8 +1,13 @@
-# 🤖 CodeaBot - AI Chat Assistant
+<div align="center", markdown="1"> 
+<h1>🤖 CodeaBot - AI Chat Assistant</h1> 
+  
+<p>Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para fornecer assistência     amigável e útil em diversas tarefas.</p>
+
+</div>
 
 [🇺🇸 English Version](README.md)
 
-Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para fornecer assistência amigável e útil em diversas tarefas.
+
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
@@ -10,6 +15,7 @@ Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 --- 
+
 ## 📋 Índice
 
 - [Características](README-pt.md#-características)
@@ -68,11 +74,11 @@ Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para
 |logging	|Built-in	|Sistema de logs
 
 
+
 ## 🎬 Demonstração
 
 > 🚀 **[Demonstração em tempo real](https://seu-app.streamlit.app)**
 
----
 
 ## 🚀 Instalação e uso local
 
@@ -138,8 +144,6 @@ OPENAI_API_KEY=sk-proj-sua-chave-aqui
   - Solução: Verifique sua conexão com a internet.
  
 
----
-
 ## 🤝 Contribuição
 
 ### Contribuições são bem-vindas! Siga estes passos:
@@ -169,13 +173,18 @@ OPENAI_API_KEY=sk-proj-sua-chave-aqui
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.txt) para detalhes.
 
 ## 👨‍💻 Autor
-### André Codea [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrecodea)
-- Estudante de Ciência da Computação na **UNESA**
+### André Codea 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrecodea)
+
+*Estudante de Ciência da Computação na **UNESA***
 
 ## 🙏 Agradecimentos
 - [OpenAI](https://www.openai.com) pela API.
 - [Streamlit](https://www.streamlit.io) pelo framework web
-- Comunidade Python pelo suporte e recursos.
+- **Comunidade Python** pelo suporte e recursos.
 
 ---
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
+<div align="center">
+<b>⭐ Se este projeto foi útil para você, considere dar uma estrela!</b>
+</div>
