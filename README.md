@@ -74,12 +74,20 @@
 |logging	|Built-in	|Log system
 
 
+## 🎬 Demonstration
 
-## 🎬 Demo
-
-<div align="center">
-  <img src="assets/chat-demo.gif" alt="Chat Demo" width="500">
+<div class="video-container mb-3">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/R7sVzZ7-RmA" 
+    style="border: none;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
+
+*Click on the image to watch.*
 
 
 ## 🚀 Local Installation and Usage
