@@ -86,6 +86,9 @@
 
 </div>
 
+### Test right now with your API!
+[🚀 Test here!](https://codeabot.streamlit.app/)
+
 
 ## 🚀 Local Installation and Usage
 
