@@ -168,7 +168,7 @@ def process_bot_response(
         full_response = ""
 
         try:
-            with st.spinner("🤔 CodeaBot está pensando..."):
+            with st.spinner("🤔 CodeaBot is thinking..."):
                 response_stream = generate_text(
                     st.session_state.messages,
                     client=client,
@@ -194,7 +194,7 @@ def process_bot_response(
             return
     st.session_state.messages.append({"role":"assistant", "content": full_response})
 
-
+# Creates main function:
 def main():
     """Main function."""
 
