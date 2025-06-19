@@ -3,16 +3,19 @@
   
 <p>An intelligent chatbot built with Streamlit and OpenAI GPT, developed to provide friendly and helpful assistance in various tasks.</p>
 
-</div>
-
-[🇧🇷 Portuguese Version](README-pt.md)
-
-
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
 ![OpenAI](https://img.shields.io/badge/openai-v1.0+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+[🇧🇷 Portuguese Version](README-pt.md)
+
+</div>
+
+
+
+
 
 --- 
 
