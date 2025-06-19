@@ -12,17 +12,17 @@ Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para
 --- 
 ## 📋 Índice
 
-- [Características](#-características)
-- [Tecnologias](#-tecnologias)
-- [Demonstração](#-demonstração)
-- [Instalação](#-instalação-e-uso-local)
-- [Configuração](#-configuração)
-- [Solução de Problemas](#-solução-de-problemas)
-- [Contribuição](#-contribuição)
-- [Roadmap](#-roadmap)
-- [Licença](#-licença)
-- [Autor](#-autor)
-- [Agradecimentos](#-agradecimentos)
+- [Características](README-pt.md#-características)
+- [Tecnologias](README-pt.md#-tecnologias)
+- [Demonstração](README-pt.md#-demonstração)
+- [Instalação](README-pt.md#-instalação)
+- [Configuração](README-pt.md#-configuração)
+- [Solução de Problemas](README-pt.md#-solução-de-problemas)
+- [Contribuição](README-pt.md#-contribuição)
+- [Roadmap](README-pt.md#-roadmap)
+- [Licença](README-pt.md#-licenças)
+- [Autor](README-pt.md#-autor)
+- [Agradecimentos](README-pt.md#-agradecimentos)
 
 ## ✨ Características
 
