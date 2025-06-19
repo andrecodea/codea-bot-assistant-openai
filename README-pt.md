@@ -1,18 +1,21 @@
 <div align="center"> 
 <h1>🤖 CodeaBot - AI Chat Assistant</h1> 
   
-<p>Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para fornecer assistência     amigável e útil em diversas tarefas.</p>
-
-</div>
-
-[🇺🇸 English Version](README.md)
-
+<p>Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para fornecer assistência  amigável e útil em diversas tarefas.</p>
 
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-v1.28+-red.svg)
 ![OpenAI](https://img.shields.io/badge/openai-v1.0+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+[🇺🇸 English Version](README.md)
+</div>
+
+
+
+
+
 
 --- 
 
