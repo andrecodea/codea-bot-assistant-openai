@@ -1,4 +1,4 @@
-<div align="center", markdown="1"> 
+<div align="center"> 
 <h1>🤖 CodeaBot - AI Chat Assistant</h1> 
   
 <p>Um chatbot inteligente construído com Streamlit e OpenAI GPT, desenvolvido para fornecer assistência     amigável e útil em diversas tarefas.</p>
